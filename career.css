@@ -323,7 +323,7 @@ li a {
 @media(max-width:420px){
     .section-1{
         padding: 50px;
-        height: auto;
+        height: 100%;
         background: linear-gradient(to right,rgb(46, 125, 220),rgb(53, 53, 202));
         color: var(--bs-light);
     
@@ -350,14 +350,17 @@ li a {
     .section-1 .left-col input{
         width: 300px;
         height: 40px;
+        margin-left: -4%;
     }
     .section-1 .left-col .button{
         display: flex;
         align-items: center;
+
     }
     .section-1 .left-col img{
         background-color: #fff;
         height: 40px;
+        margin-left: -4%;
     }
     .section-1 .right-col{
         width: 100%;
