@@ -333,9 +333,10 @@ li a {
         flex-direction: column;
     }
     .section-1 .left-col{
-        width: 100%;
+        width: 50%;
         height: auto;
         align-items: center;
+        
         
     }
     .section-1 .left-col h2{
@@ -346,27 +347,31 @@ li a {
             
     }
     .section-1 .left-col input{
-        width: 400px;
-        height: 50px;
+        width: 200px;
+        height: 40px;
     }
     .section-1 .left-col .button{
         display: flex;
         align-items: center;
+        margin-left: -10%;
     }
     .section-1 .left-col img{
         background-color: #fff;
         height: 48px;
     }
     .section-1 .right-col{
-        width: 50%;
+        width: 350px;
         
     }
     .section-1 .container{
-        width: 75%;
-        height: 70vh;
+        width: 100%;
+        height: 40vh;
         padding: 15px;
         background-color: var(--bs-cyan);
-        border-radius: 20px;
+        border-radius: 10px;
+        margin-top: 38%;
+        margin-left: -10%;
+        margin-bottom: 4%;
     }
     .section-1 .container .rows{
         display: flex;
@@ -389,8 +394,8 @@ li a {
     }
     .section-1 .container .submit-btn {
         padding: 10px 10px;
-        margin-left: 23%;
-        margin-top: 20%;
+        margin-left: 18%;
+        margin-top: 15%;
         border: none;
         border-radius: 10px;
         cursor: pointer;
