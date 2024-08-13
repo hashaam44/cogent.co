@@ -404,6 +404,8 @@ li a {
         font-weight: 600;
         
     }
+    .section-2{
+        padding: 40px;
     .section-2 .boxes{
         display: flex;
         flex-direction: column;
