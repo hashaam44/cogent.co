@@ -360,7 +360,7 @@ li a {
         height: 48px;
     }
     .section-1 .right-col{
-        width: 350px;
+        width: 320px;
         
     }
     .section-1 .container{
@@ -395,7 +395,7 @@ li a {
     .section-1 .container .submit-btn {
         padding: 10px 10px;
         margin-left: 18%;
-        margin-top: 15%;
+        margin-top: 23%;
         border: none;
         border-radius: 10px;
         cursor: pointer;
